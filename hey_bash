@@ -1,0 +1,3 @@
+#!/bin/bash 
+echo "name all the files that u want to move to upper_case_files with an uppercase"
+mv [[:upper:]] /root/upper_case_files
